@@ -1,0 +1,159 @@
+-----------------------------------------
+               location: 0xffffcc08  VALUE:   0
+               location: 0xffffcc00  VALUE:   0
+               location: 0xffffcbf8  VALUE:   0
+               location: 0xffffcbf0  VALUE:   0
+               location: 0xffffcbe8  POINTER: 0xffffcdf0
+return address location: 0xffffcbe0  CODE: 0x18024d920
+ FUNCTION MAIN location: 0xffffcbd8  POINTER: 0xffffcc60
+               location: 0xffffcbd0  garbage or float?
+               location: 0xffffcbc8  VALUE:   6
+               location: 0xffffcbc0  VALUE:   0
+               location: 0xffffcbb8  garbage or float?
+               location: 0xffffcbb0  VALUE:   5
+               location: 0xffffcba8  POINTER: 0xffffc750  ----> input[0]
+               location: 0xffffcba0  garbage or float?
+               location: 0xffffcb98  VALUE:   1
+               location: 0xffffcb90  garbage or float?
+               location: 0xffffcb88  POINTER: 0xffffcba8
+               location: 0xffffcb80  garbage or float?
+               location: 0xffffcb78  garbage or float?
+               location: 0xffffcb70  garbage or float?
+               location: 0xffffcb68  garbage or float?
+               location: 0xffffcb60  VALUE:   1
+               location: 0xffffcb58  garbage or float?
+               location: 0xffffcb50  garbage or float?
+               location: 0xffffcb48  garbage or float?
+               location: 0xffffcb40  garbage or float?
+               location: 0xffffcb38  garbage or float?
+               location: 0xffffcb30  VALUE:   0
+               location: 0xffffcb28  garbage or float?
+               location: 0xffffcb20  garbage or float?
+               location: 0xffffcb18  garbage or float?
+               location: 0xffffcb10  garbage or float?
+               location: 0xffffcb08  garbage or float?
+               location: 0xffffcb00  garbage or float?
+               location: 0xffffcaf8  VALUE:   2
+               location: 0xffffcaf0  garbage or float?
+               location: 0xffffcae8  garbage or float?
+               location: 0xffffcae0  garbage or float?
+               location: 0xffffcad8  VALUE:   0
+               location: 0xffffcad0  garbage or float?
+               location: 0xffffcac8  garbage or float?
+               location: 0xffffcac0  garbage or float?
+               location: 0xffffcab8  POINTER: 0xffffca70
+               location: 0xffffcab0  garbage or float?
+               location: 0xffffcaa8  VALUE:   0
+               location: 0xffffcaa0  garbage or float?
+               location: 0xffffca98  garbage or float?
+               location: 0xffffca90  garbage or float?
+               location: 0xffffca88  garbage or float?
+               location: 0xffffca80  garbage or float?
+               location: 0xffffca78  VALUE:   0
+               location: 0xffffca70  garbage or float?
+               location: 0xffffca68  VALUE:   0
+               location: 0xffffca60  VALUE:   1080
+               location: 0xffffca58  garbage or float?
+               location: 0xffffca50  garbage or float?
+               location: 0xffffca48  garbage or float?
+               location: 0xffffca40  garbage or float?
+               location: 0xffffca38  POINTER: 0xffffc880
+               location: 0xffffca30  garbage or float?
+               location: 0xffffca28  VALUE:   0
+  outside arr2 location: 0xffffca20  garbage or float?
+               location: 0xffffca18  POINTER: 0xffffc990
+               location: 0xffffca10  VALUE:   8
+               location: 0xffffca08  VALUE:   0
+               location: 0xffffca00  VALUE:   0
+               location: 0xffffc9f8  VALUE:   0
+               location: 0xffffc9f0  VALUE:   0
+               location: 0xffffc9e8  VALUE:   0
+               location: 0xffffc9e0  VALUE:   0
+               location: 0xffffc9d8  VALUE:   0
+               location: 0xffffc9d0  VALUE:   0
+               location: 0xffffc9c8  VALUE:   0
+               location: 0xffffc9c0  VALUE:   0
+               location: 0xffffc9b8  VALUE:   0
+               location: 0xffffc9b0  VALUE:   0
+               location: 0xffffc9a8  VALUE:   0
+               location: 0xffffc9a0  VALUE:   0
+               location: 0xffffc998  VALUE:   0
+               location: 0xffffc990  VALUE:   0
+               location: 0xffffc988  VALUE:   0
+               location: 0xffffc980  VALUE:   0
+               location: 0xffffc978  VALUE:   0
+               location: 0xffffc970  VALUE:   6
+               location: 0xffffc968  VALUE:   4098
+               location: 0xffffc960  VALUE:   0
+               location: 0xffffc958  VALUE:   6
+               location: 0xffffc950  garbage or float?
+               location: 0xffffc948  VALUE:   0
+               location: 0xffffc940  VALUE:   0
+               location: 0xffffc938  VALUE:   0
+  outside arr1 location: 0xffffc930  VALUE:   0
+               location: 0xffffc928  garbage or float?
+               location: 0xffffc920  POINTER: 0xffffca00
+               location: 0xffffc918  VALUE:   0
+               location: 0xffffc910  VALUE:   0
+               location: 0xffffc908  VALUE:   1
+               location: 0xffffc900  VALUE:   1024
+               location: 0xffffc8f8  garbage or float?
+               location: 0xffffc8f0  VALUE:   0
+               location: 0xffffc8e8  VALUE:   0
+               location: 0xffffc8e0  VALUE:   0
+               location: 0xffffc8d8  VALUE:   8
+               location: 0xffffc8d0  POINTER: 0xffffc901
+               location: 0xffffc8c8  garbage or float?
+               location: 0xffffc8c0  VALUE:   0
+               location: 0xffffc8b8  garbage or float?
+               location: 0xffffc8b0  VALUE:   0
+               location: 0xffffc8a8  VALUE:   0
+               location: 0xffffc8a0  VALUE:   0
+               location: 0xffffc898  garbage or float?
+               location: 0xffffc890  garbage or float?
+               location: 0xffffc888  garbage or float?
+               location: 0xffffc880  garbage or float?
+               location: 0xffffc878  VALUE:   0
+               location: 0xffffc870  garbage or float?
+               location: 0xffffc868  VALUE:   68
+               location: 0xffffc860  garbage or float?
+               location: 0xffffc858  garbage or float?
+               location: 0xffffc850  garbage or float?
+               location: 0xffffc848  VALUE:   0
+               location: 0xffffc840  VALUE:   0
+               location: 0xffffc838  VALUE:   0
+               location: 0xffffc830  VALUE:   48
+               location: 0xffffc828  VALUE:   0
+               location: 0xffffc820  VALUE:   6
+               location: 0xffffc818  POINTER: 0xffffc980
+               location: 0xffffc810  VALUE:   11
+               location: 0xffffc808  VALUE:   2
+               location: 0xffffc800  POINTER: 0xffffc970
+               location: 0xffffc7f8  POINTER: 0xffffc7d0
+               location: 0xffffc7f0  POINTER: 0xffffc994
+               location: 0xffffc7e8  VALUE:   1
+               location: 0xffffc7e0  POINTER: 0xffffca60
+               location: 0xffffc7d8  VALUE:   0
+               location: 0xffffc7d0  VALUE:   0
+      input[5] location: 0xffffc7c8  VALUE:   0
+               location: 0xffffc7c0  VALUE:   0
+               location: 0xffffc7b8  VALUE:   0
+      input[4] location: 0xffffc7b0  VALUE:   0
+               location: 0xffffc7a8  VALUE:   0
+               location: 0xffffc7a0  VALUE:   0
+      input[3] location: 0xffffc798  VALUE:   0
+               location: 0xffffc790  VALUE:   0
+               location: 0xffffc788  VALUE:   0
+      input[2] location: 0xffffc780  VALUE:   0
+               location: 0xffffc778  VALUE:   0
+               location: 0xffffc770  VALUE:   0
+      input[1] location: 0xffffc768  VALUE:   0
+               location: 0xffffc760  VALUE:   0
+               location: 0xffffc758  VALUE:   0
+      input[0] location: 0xffffc750  VALUE:   0
+               location: 0xffffc748  garbage or float?
+               location: 0xffffc740  POINTER: 0xffffcae0
+               location: 0xffffc738  POINTER: 0xffffca20  ----> outside arr2
+               location: 0xffffc730  garbage or float?
+               location: 0xffffc728  garbage or float?
+-----------------------------------------
